@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alarm_Clock</string>
+    <string name="minutos">Min</string>
+    <string name="min">:</string>
+    <string name="hora">Hrs</string>
+    <string name="crear_alarma">Crear Alarma</string>
+    <string name="asunto">Asunto</string>
+</resources>
